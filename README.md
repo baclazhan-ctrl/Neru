@@ -5,8 +5,8 @@
 # Инструкция по установке и настройке! 
 
 1. Установить все библиотеки из файла requirements.txt
-2. Скачать модель Koldi для работы STT (https://drive.google.com/drive/folders/1-5u_pNwRSj-sbRaHUr_21OyDy6F5-fFA?usp=drive_link) и сохраните в папку проекта
-3. Скачать модель Baya от Silero для работы TTS (https://drive.google.com/file/d/1b8mcXINn_z7Q4wLbUvumjuVhgNArdnzU/view?usp=drive_link) и сохраните в папку проекта
+2. Скачать модель Koldi для работы STT (https://drive.google.com/drive/folders/1_eDJabD5xKAMJGnfqfXhfKsbsZ0A8KZJ?usp=drive_link) и сохраните в папку проекта
+3. Скачать модель Baya от Silero для работы TTS (https://drive.google.com/drive/folders/1_eDJabD5xKAMJGnfqfXhfKsbsZ0A8KZJ?usp=drive_link) и сохраните в папку проекта
 4. Настрйока LLM:
      1) Скачать Ollama: https://ollama.com
      2) установить модель, введя в терминал Ollama команду ollama run hf.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4:IQ4_NL
